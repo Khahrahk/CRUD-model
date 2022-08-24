@@ -1,2 +1,2 @@
 # CRUD-model
-ooof
+Простая CRUD модель
